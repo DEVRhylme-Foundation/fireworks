@@ -4,7 +4,6 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
-
 // Get directory where package is installed
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
